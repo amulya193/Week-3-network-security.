@@ -88,7 +88,7 @@ References :
 ▪ Wireshark User's Guide — https://www.wireshark.org/docs/wsug_html_chunked/
 ▪ CVE Program — https://cve.mitre.org
 ▪ MITRE ATT&CK — https://attack.mitre.org
-▪ Microsoft netsh advfirewall Command Reference
+▪ Microsoft netsh advfirewall Command Reference 
 
 Key Findings :
 
