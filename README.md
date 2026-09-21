@@ -82,6 +82,14 @@ Follow-up Nmap scans showed the affected ports as filtered.
 Task 14 – Final Security Assessment
 The system was assessed before and after hardening to evaluate the reduction in network exposure.
 
+References :
+▪ Nmap Reference Guide — https://nmap.org/book/man.html
+▪ Nmap Scripting Engine (NSE) Documentation — https://nmap.org/book/nse.html
+▪ Wireshark User's Guide — https://www.wireshark.org/docs/wsug_html_chunked/
+▪ CVE Program — https://cve.mitre.org
+▪ MITRE ATT&CK — https://attack.mitre.org
+▪ Microsoft netsh advfirewall Command Reference
+
 Key Findings :
 
 - SMB service was exposed on TCP port 445.
